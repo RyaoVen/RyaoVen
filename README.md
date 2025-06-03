@@ -8,7 +8,7 @@
 - **身份**：在校学生 🎓 | 全栈开发者养成中 🚀  
 - **技术方向**：前端开发 🌐 + 后端探索 🖥️  
 - **GitHub**：[RyaoVen](https://github.com/RyaoVen) 🐙  
-- **邮箱**：rjaoven@example.com 📧  
+- **邮箱**：2098142568@qq.com 📧  
 
 
 ## 🔥 **我的技术栈** 🔥  
@@ -21,9 +21,7 @@
 
 ### 🛠️ **后端技能树**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ☕
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 🌱
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 🚗
 
 ### 📚 **正在学习**  
