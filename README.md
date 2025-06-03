@@ -38,8 +38,7 @@
 
 
 ## 📊 **我的数据看板** 📊  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyaoVen&theme=tokyonight&show_icons=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyaoVen&theme=vue&layout=compact&langs_count=6)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyaoVen&theme=tokyonight&show_icons=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyaoVen&theme=vue&layout=compact&langs_count=6)  
 
 ### 🎯 **GitHub 等级评分**  
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyaoVen&theme=github)  
