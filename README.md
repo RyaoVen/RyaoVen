@@ -45,10 +45,6 @@
 
 
 
-## 🤝 **合作与交流** 🤝  
-- **欢迎交流**：技术讨论、项目合作或学习经验分享 💬  
-  - **GitHub**：[RyaoVen](https://github.com/RyaoVen) 🐙  
-  - **邮箱**：rjaoven@example.com 📧  
 
 
 ## ✨ **生活碎片** ✨  
