@@ -1,4 +1,4 @@
-# 👋 你好呀！我是 **RyaoVen**（廖文津）🌟  
+# 👋 你好呀！我是 **RyaoVen** 🌟  
 ![访客量](https://komarev.com/ghpvc/?username=RyaoVen&color=ff69b4&style=flat-square)  
 *(正在加载代码宇宙...)*  
 
