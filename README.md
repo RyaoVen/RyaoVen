@@ -20,9 +20,9 @@
 | **VenWarehouse** | 智能仓储系统（项目带教）：单据流转 + 行锁库存不超卖（自动化并发实验）+ 治理模块（指标→规则告警→LLM 建议人在环），规划 MCP Server 让 Agent 对话式操作仓储 | 🔨 M1 已验收 · M2 进行中 | Spring Boot · Vue 3 · PostgreSQL |
 | **VenNote** | AI Native 个人知识库：md 文件唯一真源 + SQLite FTS5 索引，**MCP 双模接入（20 tools）**、人机分级写权限、hooks 事件引擎 | 🔨 MVP | Electron · React · TypeScript |
 | **VenHarness** | 「一切皆 Tool」的 Agent Harness 实验内核：微内核 8 工具、PGS 权限分级（G0-G4）、银行流水级审计、结构化沙箱执行 | 🔨 MVP · 48/48 测试 | TypeScript · MCP |
-| **VenDevFlow** | Agent 驱动开发工作流：issue→plan→impl→review→pr→ship 六阶段 skill 链 + 五道人工确认门，全程 GitCode 工单/PR 留痕 | 🟢 日常在用 | ZCode Skill · GitCode API |
+| [**VenDevFlow**](https://github.com/RyaoVen/vendevflow) | Agent 驱动开发工作流：issue→plan→impl→review→pr→ship 六阶段 skill 链 + 五道人工确认门，全程 GitCode 工单/PR 留痕 | 🟢 已开源 | ZCode Skill · GitCode API |
 
-> 🗃️ 私有项目按里程碑逐步开源；dev 平台在 [GitCode](https://gitcode.com/liaoyutianyuan)，稳定后的完整版本会同步发布到 GitHub。
+> 🗃️ 其余私有项目按里程碑逐步开源；dev 平台在 [GitCode](https://gitcode.com/liaoyutianyuan)，稳定后的完整版本会同步发布到 GitHub。
 
 ## 🔥 **我的技术栈** 🔥  
 ### 💻 **前端**  
